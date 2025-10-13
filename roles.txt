@@ -1,3 +1,4 @@
-ryan read
-yao read
-daniel write
+user1 read
+user2 read
+william write
+admin write
